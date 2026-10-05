@@ -1,0 +1,5 @@
+git branch -vv
+
+* bug-fix-revert fb8355c [origin/bug-fix-revert] Add merge branches output
+  bug-fix-typo   fbdaa7d [origin/bug-fix-typo] Fix typo in README
+  main           fb8355c [origin/main] Add merge branches output
